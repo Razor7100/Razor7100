@@ -13,7 +13,7 @@ Video game development is not always easy, but the satisfaction of seeing people
 
 
 <h2>GAMING</h2>
-<a href="https://www.roblox.com/users/965576263/profile">Roblox</a>  <a href="https://steamcommunity.com/id/Razor7100/">Steam</a>  <a href="https://github.com/Razor7100/Razor7100/blob/main/profiles/epicgames.md">Epic Games</a>
+<a href="https://www.roblox.com/users/965576263/profile">Roblox</a>  <a href="https://steamcommunity.com/id/Razor7100/">Steam</a>  <a href="https://raw.githubusercontent.com/Razor7100/Razor7100/main/profiles/epicgames.md">Epic Games</a>
 <h2>CONTACT ME</h2>
 <a href="https://t.me/Razor7100">Telegram</a>  <a href="https://discordid.netlify.app/?id=597883302405341204">Discord</a> 
 <h2>OTHER LINKS</h1>
