@@ -6,6 +6,8 @@ Hello there! My name is Razor and I am a video game enthusiast. I have always be
   <p>Video game development is not always easy, but the satisfaction of seeing people enjoy your creations makes it all worth it. I am excited to see what the future holds for me in this field and I can't wait to continue sharing my love for gaming with others.
 <h2>SOCIAL MEDIA</h2>
 <a href="https://twitter.com/Razor7100">Twitter</a> 
+<h2>GAMING</h2>
+<a href="https://www.roblox.com/users/965576263/profile">Roblox</a> <a href="https://www.roblox.com/users/965576263/profile">Roblox</a>
 <h2>CONTACT ME</h2>
 <a href="https://t.me/Razor7100">Telegram</a>
 
