@@ -1,3 +1,8 @@
+https://th.bing.com/th/id/R.fda82c8f53423d5f1918d3d29b5d0e22?rik=2FWi3MfoarCFWg&riu=http%3a%2f%2fwww.f-covers.com%2fcover%2finitial-d-facebook-cover-timeline-banner-for-fb.jpg&ehk=JoElyAAGZMUHoGmhzlhCWow5ZwZOZWn8M8UCqXERwjM%3d&risl=&pid=ImgRaw&r=0
+
+
+
+
 
 <h2>ABOUT ME</h2>
 Hello there! My name is Razor and I am a video game enthusiast. I have always been fascinated by the world of gaming and the endless possibilities it offers. In 2020, I started working on my own building game, which was a challenging yet rewarding experience.
