@@ -1,5 +1,5 @@
 
-<img src="https://mega.nz/4b21ea36-256c-47e9-b17d-6204cbbb438f" alt="image-description" width="400" height="300" align="center">
+<img src="https://mega.nz/4b21ea36-256c-47e9-b17d-6204cbbb438f" alt="image-description" align="center">
 
 
 
