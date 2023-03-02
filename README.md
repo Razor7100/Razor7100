@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/121650332/222305437-58cd848f-9f40-470f-b21f-c19e1196a061.png" width="max" />
-</p>
-
 <h2>ABOUT ME</h2>
 Hello there! My name is Razor and I am a video game enthusiast. I have always been fascinated by the world of gaming and the endless possibilities it offers. In 2020, I started working on my own building game, which was a challenging yet rewarding experience.
 As I continued to hone my skills and develop more games, I realized that I had a passion for creating games that people could enjoy. Seeing others play and enjoy my games has been one of the most rewarding experiences of my life
