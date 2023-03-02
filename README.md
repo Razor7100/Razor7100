@@ -1,7 +1,6 @@
 
-<img src="https://mega.nz/4b21ea36-256c-47e9-b17d-6204cbbb438f">
 
-
+https://mega.nz/4b21ea36-256c-47e9-b17d-6204cbbb438f
 
 <h2>ABOUT ME</h2>
 Hello there! My name is Razor and I am a video game enthusiast. I have always been fascinated by the world of gaming and the endless possibilities it offers. In 2020, I started working on my own building game, which was a challenging yet rewarding experience.
