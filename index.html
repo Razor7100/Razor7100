@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reserved Website</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    #content {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div id="content"></div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var githubURL = "https://raw.githubusercontent.com/Razor7100/rzr71/main/reserved.html?token=GHSAT0AAAAAACC7D6ROEPMZOVBAF4NT5AZCZDZEQ2A";
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', githubURL, true);
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          document.getElementById('content').innerHTML = xhr.responseText;
+        } else if (xhr.status === 404) {
+          document.getElementById('content').innerHTML = "<p>Error loading the content.</p>";
+        }
+      };
+      xhr.send();
+    });
+  </script>
+</body>
+</html>
+
