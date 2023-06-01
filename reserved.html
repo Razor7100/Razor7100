@@ -5,56 +5,27 @@
   <style>
     body {
       display: flex;
-      flex-direction: column;
-      align-items: center;
       justify-content: center;
+      align-items: center;
       height: 100vh;
       margin: 0;
       font-family: Arial, sans-serif;
-      background-color: black;
     }
 
-    h1 {
-      color: white;
-      margin-bottom: 20px;
-    }
-
-    p {
-      color: white;
-      margin-bottom: 20px;
+    #content {
       text-align: center;
-    }
-
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      border-radius: 50px;
-      background-color: transparent;
-      color: white;
-      border: 2px solid white;
-      transition: transform 0.3s, box-shadow 0.3s;
-    }
-
-    button:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 10px white;
-      cursor: pointer;
-    }
-
-    @media (max-width: 480px) {
-      p {
-        text-align: center;
-      }
     }
   </style>
 </head>
 <body>
-  <h1>This website is reserved.</h1>
-  <p>We are currently undergoing maintenance. You may go through a series of websites.</p>
-  <button onclick="goToMainSite()">Go to the main site</button>
+  <div id="content">
+    <h1>This website is reserved.</h1>
+    <p>We are currently undergoing maintenance. You may go through a series of websites.</p>
+    <button onclick="goToWebsite()">Go to Website</button>
+  </div>
 
   <script>
-    function goToMainSite() 
+    function goToWebsite() {
       window.location.href = "https://razor7100.carrd.co";
     }
   </script>
