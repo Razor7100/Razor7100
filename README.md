@@ -1,1 +1,2 @@
-### make sure to check out [my gist profile](https://gist.github.com/Razor7100)
+### Hi
+make sure to check out [my gist profile](https://gist.github.com/Razor7100)
